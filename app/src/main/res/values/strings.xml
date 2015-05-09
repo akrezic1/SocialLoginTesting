@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Social Login</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_disconnect">Disconnect app from G+</string>
+    
+    <string name="facebook_app_id">834854733270956</string>
+</resources>
